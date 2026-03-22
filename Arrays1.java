@@ -222,6 +222,12 @@ class Arrays1 {
             }
             System.out.println();
         }
+
+
+          
+
+
+
         sc.close();
 
     }
